@@ -7,8 +7,6 @@ Sheldon Fox 2020
 
 Download Entire .zip here https://drive.google.com/file/d/1qodNX1XVF2f73Wd73Y3TYmiFpy149dqB/view?usp=sharing
 
-Introduction
-
 'A high definition blackboard that allows you to easily manage your students grades'
 
 BlackBoard HD is designed to easily manage students grades and get quick acurate results. In making it I tried to tread the fine line between simplicity and sufficient data. But I am not a teacher so if you have any questions or comments for future releases please email me.
