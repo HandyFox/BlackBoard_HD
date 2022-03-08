@@ -18,6 +18,4 @@ My original intent with this piece of software was to create a suite of handy to
 
 This project is free and always will be.
 
-If you like it you can always support by making a donation. 
-
-[![Donate Now](https://drive.google.com/file/d/137ECC8RLGbE68ENq0aVhnZaqkuickh-k/view?usp=sharing)](https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE)
+If you like it you can always support by making a donation. https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE
