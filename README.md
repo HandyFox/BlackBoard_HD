@@ -1,13 +1,11 @@
 
 ![BlackBoard2](https://user-images.githubusercontent.com/96256497/155852285-1de241bd-8ae2-48d1-b8a6-6d207d89ef30.png)
 
-Version 1.0
+Version 1.1
 
-Sheldon Fox 2020
+Sheldon Fox 2022
 
-Download Entire .zip here https://drive.google.com/file/d/1qodNX1XVF2f73Wd73Y3TYmiFpy149dqB/view?usp=sharing
-
-To edit the source code you will need to download the .zip file from the link above. Then download the .au3 files show above and place them in the same folder as "BlackBoard Hd.exe" after that you can simply edit BlackBoard_Update.au3 with the Autoit editor.
+For Regular installations simply run the BlackBoard_HD_Install.exe If you wish to compile or edit the source code first run the BlackBoard_HD_Install.exe, then unzip the BlackBoard_HD_For_Manual_Compilation.zip any where on your computer and edit BlackBoard_Update.au3 with the Autoit editor of your choice.
 
 'A high definition blackboard that allows you to easily manage your students grades'
 
@@ -18,4 +16,4 @@ My original intent with this piece of software was to create a suite of handy to
 
 This project is free and always will be.
 
-If you like it you can always support by making a donation. https://photos.google.com/photo/AF1QipMxMnDBvNknT_N8N1rYFCPwmI_WzSyWTcZ4avi1
+If you like it you can always support by making a donation. https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE
