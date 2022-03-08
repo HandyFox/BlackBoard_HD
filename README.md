@@ -15,3 +15,7 @@ BlackBoard HD is designed to easily manage students grades and get quick acurate
 History
 
 My original intent with this piece of software was to create a suite of handy tools... something you use all the time.... a BLACKBOARD. Although it is not a complete suite of tools at the present the name still stuck. If you have any handy features you want to see included just let me know and I will attempt to add them to future realeses.
+
+This project is free and always will be.
+If you like it you can always support me.
+https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE
