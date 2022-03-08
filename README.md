@@ -5,6 +5,8 @@ Version 1.1
 
 Sheldon Fox 2022
 
+[![Download BlackBoard HD](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/blackboard-hd/files/latest/download)
+
 For Regular installations simply run the BlackBoard_HD_Install.exe If you wish to compile or edit the source code first run the BlackBoard_HD_Install.exe, then unzip the BlackBoard_HD_For_Manual_Compilation.zip any where on your computer and edit BlackBoard_Update.au3 with the Autoit editor of your choice.
 
 'A high definition blackboard that allows you to easily manage your students grades'
@@ -16,4 +18,6 @@ My original intent with this piece of software was to create a suite of handy to
 
 This project is free and always will be.
 
-If you like it you can always support by making a donation. https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE
+If you like it you can always support by making a donation. 
+
+[![Donate Now](https://photos.google.com/photo/AF1QipMxMnDBvNknT_N8N1rYFCPwmI_WzSyWTcZ4avi1)](https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE)
