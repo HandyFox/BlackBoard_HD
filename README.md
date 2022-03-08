@@ -20,4 +20,4 @@ This project is free and always will be.
 
 If you like it you can always support by making a donation.
 
-[<img src="https://photos.google.com/photo/AF1QipO6RQJFenIW2aJz6ApQBsTGOXw7pEG--t7VHA9W">](https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE)
+[<img src="https://photos.google.com/photo/AF1QipMxMnDBvNknT_N8N1rYFCPwmI_WzSyWTcZ4avi1">](https://www.paypal.com/donate/?hosted_button_id=N6J5MF7Q7QKZE)
